@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(189, 236, 255);
+    color: hsl(215, 64%, 47%);
+}
+
+h1,
+h2 {
+    font-family: serif;
+}
+
+nav {
+    background-color: azure;
+}
